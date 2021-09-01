@@ -1,6 +1,6 @@
 ## 3 ##
 
-s1= "Nice to have it"
+s1= "Nice to have it "
 s2= "here"
 print(s1 + s2)
 
@@ -12,8 +12,8 @@ print(a[3][1][2])
 ## 5 ##
 
 a.append(s1+s2)
-print(a)
 a.insert(0,s1+s2)
+print(a)
 
 ## 6 ##
 
